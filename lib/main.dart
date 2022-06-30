@@ -1,24 +1,3 @@
-// import 'package:flutter/material.dart';
-// import 'package:organic_vegetsbles/views/Screen1.dart';
-// import 'package:organic_vegetsbles/views/dashboard.dart';
-// import 'package:organic_vegetsbles/views/login.dart';
-// import 'package:splashscreen/splashscreen.dart';
-
-// void main() {
-//   return runApp(MaterialApp(
-//     debugShowCheckedModeBanner: false,
-//     // ignore: unnecessary_new
-//     home: new SplashScreen(
-//       seconds: 14,
-//      imageBackground: ImageProvider(Image.asset(
-//             "assets/splash.png",
-
-//           ),)
-//           ),
-//     ),
-//   ));
-// }
-
 import 'package:flutter/material.dart';
 import 'package:organic_vegetsbles/views/Screen1.dart';
 import 'package:organic_vegetsbles/views/login.dart';
