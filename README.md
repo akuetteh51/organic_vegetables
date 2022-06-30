@@ -1,16 +1,3 @@
-# organic_vegetsbles
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# organic_vegetables
+<p>@akuetteh51 developed the app organic vegetables. at the GTL main campus in Pokuasi, Accra, during a TOT bootcamp. This project was created during bootcamp. @titanium-cmd who is a Trainer from Ghana Tech LAB led us through a number of activities aimed at honing our skills. Although there were few days left to complete the required goals for a trainer, this program was very insightful. I was pleased to advance my knowledge of developing mobile apps by taking lessons from a group of developers. Thank you to the Pokuasi team and Ghana Techlab for creating such an exciting program. We hope to see more training like this in the near future. And a heartfelt thanks to the senior developers who were in attendance: Rafiq, Muda, Mercy, AB, and Ike.Not to be forgotten are Lydia Dartei and her team who worked so hard to make this a success.</p>
+<a href="https://www.figma.com/file/89KqUPI2rTwQECaRG2zh6M/Untitled?node-id=3%3A14"><img class="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="40px" width="50"> click here to view UI design in Figma</a>
