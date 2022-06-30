@@ -13,25 +13,15 @@ class _DashBoardState extends State<DashBoard> {
     return SafeArea(
       child: Scaffold(
           appBar: AppBar(
-            title: Row(
-              children: [
-                SizedBox(
-                  width: 19,
-                ),
-                Container(
-                  height: 34,
-                  width: MediaQuery.of(context).size.width / 1.4,
-                  decoration: BoxDecoration(
-                    borderRadius: BorderRadius.circular(20),
-                    color: Colors.white,
-                  ),
-                ),
-                SizedBox(
-                  width: 19,
-                ),
-                Icon(Icons.notifications)
-              ],
+            title: Container(
+              height: 34,
+              width: MediaQuery.of(context).size.width / 1.4,
+              decoration: BoxDecoration(
+                borderRadius: BorderRadius.circular(20),
+                color: Colors.white,
+              ),
             ),
+            actions: [Icon(Icons.notifications)],
             backgroundColor: Color(0xff96FC8E),
             shadowColor: Colors.transparent,
           ),

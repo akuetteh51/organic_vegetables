@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
+import 'package:organic_vegetsbles/views/dashboard.dart';
 
 class Login extends StatelessWidget {
   const Login({Key? key}) : super(key: key);
@@ -90,7 +91,12 @@ class Login extends StatelessWidget {
                     height: 49,
                     width: MediaQuery.of(context).size.width / 1.3,
                     child: TextButton(
-                      onPressed: () {},
+                      onPressed: () {
+                        Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                                builder: (context) => DashBoard()));
+                      },
                       child: Text(
                         "SIGNIN",
                         style: TextStyle(color: Colors.white, fontSize: 20),
